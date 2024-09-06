@@ -1,0 +1,45 @@
+_repo: The-remains-of-the-late-Mrs-Richard-Trench-b-being-selections-from-her-journals-letters-other__74331
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trench, Melesina Chenevix St. George
+    aliases:
+    - Chenevix, Melesina
+    - Trench, Mrs. Richard
+    birthdate: 1768
+    deathdate: 1827
+    gutenberg_agent_id: '57450'
+    url: http://www.gutenberg.org/2009/agents/57450
+    wikipedia: https://en.wikipedia.org/wiki/Melesina_Trench
+  editor:
+    agent_name: Trench, Richard Chenevix
+    alias: Chenevix, Richard
+    birthdate: 1807
+    deathdate: 1886
+    gutenberg_agent_id: '2062'
+    url: http://www.gutenberg.org/2009/agents/2062
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Chenevix_Trench
+description: ''
+gutenberg_issued: '2024-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74331'
+language: en
+pgterms:marc904: https://archive.org/details/remainsoflatemrs00trenuoft
+pgterms:marc905: 20230722061340trench
+pgterms:marc906: '1862'
+pgterms:marc907: GB
+production_note: MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aLondon :$bParker, Son, and Bourn, $c1862.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trench, Melesina Chenevix St. George, 1768-1827'
+- !lcc 'CT'
+- GITenberg
+title: 'The remains of the late Mrs. Richard Trench : $b being selections from her
+  journals, letters, & other papers'
+url: http://www.gutenberg.org/ebooks/74331
