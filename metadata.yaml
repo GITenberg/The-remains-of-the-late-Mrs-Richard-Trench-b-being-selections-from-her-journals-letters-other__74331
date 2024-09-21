@@ -1,5 +1,8 @@
 _repo: The-remains-of-the-late-Mrs-Richard-Trench-b-being-selections-from-her-journals-letters-other__74331
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74331-h/images/cover.jpg
 creator:
   author:
     agent_name: Trench, Melesina Chenevix St. George
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2062
     wikipedia: https://en.wikipedia.org/wiki/Richard_Chenevix_Trench
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74331#The-remains-of-the-late-Mrs-Richard-Trench-b-being-selections-from-her-journals-letters-other_
 gutenberg_issued: '2024-08-29'
 gutenberg_type: Text
 identifiers:
